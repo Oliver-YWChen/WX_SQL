@@ -1,0 +1,229 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	21
+	Class:	22
+	StdDevs:	1.00000000000000
+	NullSym:	23
+	NullValues:	30
+	StatValues:	31
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Code"
+)
+
+(SymList.4
+	Child:	5
+	Child:	14
+)
+
+(BMkSym.5
+	Color:	6
+	BgColor:	7
+	Style:	0x03
+	Icon:	8
+	Font:	9
+	Size:	14.00000000000000
+	Pattern:	42
+	Angle:	360.00000000000000
+)
+
+(TClr.6
+	Red:	0x6969
+	Green:	0x8b8b
+	Blue:	0x6969
+)
+
+(TClr.7
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(AVIcon.8
+	Name:	"Äµ¨®.gif"
+	Data:	4e442049 6d616765 00010014 00140000 
+	Data:	01900000 00000000 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000001 02000304 05050006 07000000 
+	Data:	00000000 00000809 0a000b0c 0d0d000e 
+	Data:	000f1000 00000000 00001109 12131400 
+	Data:	15150014 16121700 00000000 00121819 
+	Data:	1a0e1b1c 1c1d0e1e 001f2000 00000000 
+	Data:	00002122 23242526 26272428 29232a00 
+	Data:	00000000 0000002b 2c2d2d2d 2d2d2d2e 
+	Data:	202f0000 00000000 00000030 31313131 
+	Data:	31313132 2c000000 00000000 0000000e 
+	Data:	00000000 00000000 0e000000 00000000 
+	Data:	00003333 31313131 31313131 34353600 
+	Data:	00000000 00003738 393a3939 39393b3c 
+	Data:	3d3e2b00 00000000 00003f11 00404141 
+	Data:	41414243 44450000 00000000 00004647 
+	Data:	48162d2d 2d2d2d1d 33450000 00000000 
+	Data:	0000494a 304b0202 024c4d4e 4f500000 
+	Data:	00000000 00000034 26440000 00005152 
+	Data:	53000000 00000000 00000036 54150000 
+	Data:	00000055 21000000 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000000 0180ffff ffe1e1e1 a4a4a4e7 
+	Data:	e7e79e9e 9ec2c2c2 b9b9b9cb cbcba7a7 
+	Data:	a7d8d8d8 8b8b8b99 9999caca cab2b2b2 
+	Data:	646464bd bdbde9e9 e9c1c1c1 a6a6a6f6 
+	Data:	f6f6f9f9 f9fcfcfc 989898fe fefe8f8f 
+	Data:	8ff1f1f1 9a9a9a60 60604040 40595959 
+	Data:	787878ee eeeee3e3 e3d4d4d4 d0d0d07f 
+	Data:	7f7f7676 76686868 00000053 53535454 
+	Data:	54f7f7f7 a5a5a5f3 f3f3a3a3 a39b9b9b 
+	Data:	a0a0a0f5 f5f58686 86b6b6b6 8c8c8c22 
+	Data:	22223e3e 3e1b1b1b dddddd71 71710e0e 
+	Data:	0e121212 07070709 09091010 10111111 
+	Data:	4f4f4fa2 a2a23d3d 3d898989 464646e0 
+	Data:	e0e0f0f0 f0747474 7d7d7d41 41414747 
+	Data:	47dedede 2828284b 4b4b9696 96505050 
+	Data:	a8a8a80a 0a0acdcd cdb8b8b8 0d0d0d0f 
+	Data:	0f0fd1d1 d1d7d7d7 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000000 00000000 00000000 00000000 
+	Data:	00000000 00000002 00080005 00180000 
+	Data:	00000000 00000000 0000
+)
+
+(NFont.9
+	Family:	10
+	Name:	11
+	Style:	12
+	CommonFamily:	13
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.10
+	S:	"Arial"
+)
+
+(AVStr.11
+	S:	"Arial"
+)
+
+(AVStr.12
+	S:	"Normal"
+)
+
+(AVStr.13
+	S:	"Helvetica"
+)
+
+(BMkSym.14
+	Color:	15
+	BgColor:	16
+	Font:	17
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.15
+	Name:	"Transparent"
+)
+
+(TClr.16
+	Name:	"Transparent"
+)
+
+(NFont.17
+	Family:	18
+	Name:	19
+	Style:	20
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.18
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.19
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.20
+	S:	"Normal"
+)
+
+(LClass.21
+	IsText:	1
+	Label:	"A0302000"
+	MinStr:	"A0302000"
+	MaxStr:	"A0302000"
+	Precision:	-3
+)
+
+(LClass.22
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BMkSym.23
+	Color:	24
+	BgColor:	25
+	Font:	26
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.24
+	Name:	"Transparent"
+)
+
+(TClr.25
+	Name:	"Transparent"
+)
+
+(NFont.26
+	Family:	27
+	Name:	28
+	Style:	29
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.27
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.28
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.29
+	S:	"Normal"
+)
+
+(NameDict.30
+)
+
+(NameDict.31
+)
+
